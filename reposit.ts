@@ -1,7 +1,3 @@
-//const testProperties = require('./properties.json');
-//console.log(testProperties)
-//const testTennents = require('./tennents.json');
-
 import testProperties from './properties.json' with {type: 'json'};
 import testTennents from './tennents.json' with {type: 'json'};
 
@@ -45,11 +41,6 @@ export function getRentPerTennent(
   costFormat: string,
   tennents: Object
 ): number {
-  // take in property id
-  // find tennents with that property id
-  // divide cost of property with number of tennents
-  // format to pence/pounds
-
   let currentTennents: number = 0;
   for (let i in tennents) {
     if (tennents[i].propertyId === property.id) {
@@ -75,8 +66,6 @@ export function getRentPerTennent(
   return 0;
 }
 
-console.log(getRentPerTennent(testProperties[0], "PENCE", testTennents))
-
 function validatePostcode(postCode: string): boolean {
   let regex = new RegExp(
     '^([A-Za-z][A-Ha-hJ-Yj-y]?[0-9][A-Za-z0-9]? ?[0-9][A-Za-z]{2}|[Gg][Ii][Rr] ?0[Aa]{2})$',
@@ -97,7 +86,6 @@ export function getInvalidPostcodes(properties: Object): string[] {
   return invalidPostcodes;
 }
 
-//console.log(getInvalidPostcodes(testProperties));
 
 function getCurrentDate(): Date {
   let today = new Date();
@@ -118,8 +106,7 @@ export function getPropertyStatus(property: Property, tennents): string {
       tennentList.push(tennents[i]);
     }
   }
-  console.log(tennentList.length)
-  console.log(property.id)
+
   if (tennentList.length === 0) {
     return "PROPERTY_VACANT";
   }
@@ -138,4 +125,3 @@ export function getPropertyStatus(property: Property, tennents): string {
   return '';
 }
 
-console.log(getPropertyStatus(testProperties[1], testTennents))

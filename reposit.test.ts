@@ -1,15 +1,3 @@
-// import {
-//   getAverageRentByRegion,
-//   getRentPerTennent,
-//   getInvalidPostcodes,
-//   getPropertyStatus,
-// } from './reposit';
-
-//const reposit = require('./reposit')
-
-// const testProperties = require('./properties.json');
-// const testTennents = require('./tennents.json');
-
 import testProperties from './properties.json' with {type: 'json'};
 import testTennents from './tennents.json' with {type: 'json'};
 import {getAverageRentByRegion, getRentPerTennent, getInvalidPostcodes, getPropertyStatus} from './reposit';
@@ -40,7 +28,6 @@ describe('Reposit tests', () => {
     describe('getInvalidPostcodes', ()=>{
         const properties = [{postcode: 'EH9 1DL', id: '0'},{postcode: 'hresfdgv', id: '1'},{postcode: 'IG8 0EU', id:'2'},{postcode: 'dashgsh',id:'3'}]
         const testValue = getInvalidPostcodes(properties);
-        console.log(testValue)
         expect(testValue.toString()).toBe(['1','3'].toString())
 
     })
