@@ -8,6 +8,7 @@ Built using npm. Run `npm i` to install project dependencies.
 
 ## Run
 
+The code for each function can be found in `reposit.ts`.
 Each function has an instance in `playground.ts` that can be run using `node playground.ts`. Feel free to edit the values in the arguments to test out the function
 
 ## Tests

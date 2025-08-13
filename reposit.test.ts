@@ -24,13 +24,18 @@ describe('Reposit tests', () => {
         test('Thrown Error', ()=>{
             expect(()=>{getRentPerTennent(testProperties[0], "POUNDS", {})}).toThrow('No tennants')
         })
-    })
+    });
+
     describe('getInvalidPostcodes', ()=>{
+        test('Invalid postcode list', ()=>{
         const properties = [{postcode: 'EH9 1DL', id: '0'},{postcode: 'hresfdgv', id: '1'},{postcode: 'IG8 0EU', id:'2'},{postcode: 'dashgsh',id:'3'}]
         const testValue = getInvalidPostcodes(properties);
         expect(testValue.toString()).toBe(['1','3'].toString())
+    })
+        
 
     })
+
     describe('getPropertyStatus', ()=>{
         test('PROPERTY_VACANT', () => {
             const testValue = getPropertyStatus(testProperties[27], testTennents)

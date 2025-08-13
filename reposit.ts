@@ -1,7 +1,3 @@
-import testProperties from './properties.json' with {type: 'json'};
-import testTennents from './tennents.json' with {type: 'json'};
-
-
 export type Property = {
   id: string;
   address: string;
