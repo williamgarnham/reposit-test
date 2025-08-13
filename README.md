@@ -19,4 +19,4 @@ The tests are simple unit tests written in jest. They are not exhaustive but che
 ## Additional notes
 
 - I converted the csv dataset into json for ease of use
-- An error occurs on the running `node playground.ts` relating to the module vs commonjs syntax. I've opted not to deal with this given time constraints.
+- An error occurs on the running `node playground.ts` relating to the module vs commonjs syntax. I've opted not to deal with this given time constraints. It still allows the script to run, but gives the error information at the end.
