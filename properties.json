@@ -1,0 +1,902 @@
+[
+  {
+    "id": "p_1002",
+    "address": "11 Fielding Road",
+    "postcode": "FK71 6GH",
+    "monthlyRentPence": 158800,
+    "region": "N.IRELAND",
+    "capacity": 4,
+    "tenancyEndDate": "2024-07-01"
+  },
+  {
+    "id": "p_1003",
+    "address": "120 Hazelwood Street",
+    "postcode": "IV78 9QR",
+    "monthlyRentPence": 123600,
+    "region": "N.IRELAND",
+    "capacity": 3,
+    "tenancyEndDate": "2029-09-13"
+  },
+  {
+    "id": "p_1004",
+    "address": "124 Maple Crescent",
+    "postcode": "EH96 9EF",
+    "monthlyRentPence": 212500,
+    "region": "WALES",
+    "capacity": 1,
+    "tenancyEndDate": "2028-01-08"
+  },
+  {
+    "id": "p_1005",
+    "address": "98 Pine Road",
+    "postcode": "EH60 5OP",
+    "monthlyRentPence": 190800,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2027-10-08"
+  },
+  {
+    "id": "p_1006",
+    "address": "115 Foxglove Lane",
+    "postcode": "IV85 0ST",
+    "monthlyRentPence": 77400,
+    "region": "N.IRELAND",
+    "capacity": 2,
+    "tenancyEndDate": "2028-11-02"
+  },
+  {
+    "id": "p_1007",
+    "address": "75 Fir Avenue",
+    "postcode": "ML22 3ST",
+    "monthlyRentPence": 130100,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2028-09-21"
+  },
+  {
+    "id": "p_1008",
+    "address": "82 Sycamore Way",
+    "postcode": "BT57 9UV",
+    "monthlyRentPence": 239700,
+    "region": "SCOTLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2029-01-03"
+  },
+  {
+    "id": "p_1009",
+    "address": "19 Dogwood Avenue",
+    "postcode": "IV12 4AB",
+    "monthlyRentPence": 174300,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2026-10-05"
+  },
+  {
+    "id": "p_1010",
+    "address": "137 Clover Avenue",
+    "postcode": "G88 1ST",
+    "monthlyRentPence": 131500,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2025-12-04"
+  },
+  {
+    "id": "p_1011",
+    "address": "101 Glenview Drive",
+    "postcode": "IV88 1CD",
+    "monthlyRentPence": 208900,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2025-12-13"
+  },
+  {
+    "id": "p_1012",
+    "address": "72 Elmwood Avenue",
+    "postcode": "FK75 6YZ",
+    "monthlyRentPence": 154800,
+    "region": "WALES",
+    "capacity": 2,
+    "tenancyEndDate": "2027-05-10"
+  },
+  {
+    "id": "p_1013",
+    "address": "75 Ash Court",
+    "postcode": "BT48 0OP",
+    "monthlyRentPence": 295700,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2028-04-23"
+  },
+  {
+    "id": "p_1014",
+    "address": "185 Churchill Drive",
+    "postcode": "G78 0QR",
+    "monthlyRentPence": 88100,
+    "region": "N.IRELAND",
+    "capacity": 7,
+    "tenancyEndDate": "2027-01-14"
+  },
+  {
+    "id": "p_1015",
+    "address": "39 Sunset Boulevard",
+    "postcode": "EH68 5EF",
+    "monthlyRentPence": 260500,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2025-10-29"
+  },
+  {
+    "id": "p_1016",
+    "address": "70 Redwood Road",
+    "postcode": "BT65 2ST",
+    "monthlyRentPence": 255300,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2027-09-01"
+  },
+  {
+    "id": "p_1017",
+    "address": "94 Juniper Street",
+    "postcode": "FK63 7EF",
+    "monthlyRentPence": 124600,
+    "region": "N.IRELAND",
+    "capacity": 4,
+    "tenancyEndDate": "2023-02-19"
+  },
+  {
+    "id": "p_1018",
+    "address": "151 Cypress Avenue",
+    "postcode": "AB49 1CD",
+    "monthlyRentPence": 92500,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2027-12-02"
+  },
+  {
+    "id": "p_1019",
+    "address": "57 Northwood Close",
+    "postcode": "TN1 1AA",
+    "monthlyRentPence": 230400,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2029-01-17"
+  },
+  {
+    "id": "p_1020",
+    "address": "175 Hilltop Drive",
+    "postcode": "G82 3OP",
+    "monthlyRentPence": 251500,
+    "region": "WALES",
+    "capacity": 1,
+    "tenancyEndDate": "2029-02-12"
+  },
+  {
+    "id": "p_1021",
+    "address": "14 Spruce Avenue",
+    "postcode": "AB56 8EF",
+    "monthlyRentPence": 201600,
+    "region": "WALES",
+    "capacity": 4,
+    "tenancyEndDate": "2029-01-11"
+  },
+  {
+    "id": "p_1022",
+    "address": "189 Fir Crescent",
+    "postcode": "G73 0QR",
+    "monthlyRentPence": 136000,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2026-12-04"
+  },
+  {
+    "id": "p_1023",
+    "address": "94 Laurel Street",
+    "postcode": "BT21 0AA",
+    "monthlyRentPence": 95300,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2028-07-08"
+  },
+  {
+    "id": "p_1024",
+    "address": "137 Linden Lane",
+    "postcode": "IV7 8AA",
+    "monthlyRentPence": 80900,
+    "region": "ENGLAND",
+    "capacity": 6,
+    "tenancyEndDate": "2028-10-01"
+  },
+  {
+    "id": "p_1025",
+    "address": "66 Park Lane",
+    "postcode": "B15 2T",
+    "monthlyRentPence": 108400,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2025-11-28"
+  },
+  {
+    "id": "p_1026",
+    "address": "50 Cherry Lane",
+    "postcode": "AB56 5GH",
+    "monthlyRentPence": 186500,
+    "region": "WALES",
+    "capacity": 2,
+    "tenancyEndDate": "2027-03-02"
+  },
+  {
+    "id": "p_1027",
+    "address": "159 Rowan Crescent",
+    "postcode": "AB21 9XY",
+    "monthlyRentPence": 102700,
+    "region": "ENGLAND",
+    "capacity": 7,
+    "tenancyEndDate": "2028-07-12"
+  },
+  {
+    "id": "p_1028",
+    "address": "60 Poplar Street",
+    "postcode": "EH57 2GH",
+    "monthlyRentPence": 167600,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2025-08-30"
+  },
+  {
+    "id": "p_1029",
+    "address": "143 Alder Crescent",
+    "postcode": "G33 2GH",
+    "monthlyRentPence": 160700,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2027-05-11"
+  },
+  {
+    "id": "p_1030",
+    "address": "131 Birch Grove",
+    "postcode": "BT48 4ST",
+    "monthlyRentPence": 97800,
+    "region": "ENGLAND",
+    "capacity": 6,
+    "tenancyEndDate": "2025-04-17"
+  },
+  {
+    "id": "p_1031",
+    "address": "156 Meadow Drive",
+    "postcode": "EH57 7IJ",
+    "monthlyRentPence": 192500,
+    "region": "SCOTLAND",
+    "capacity": 1,
+    "tenancyEndDate": "2023-11-23"
+  },
+  {
+    "id": "p_1032",
+    "address": "192 Cherry Court",
+    "postcode": "FK84 3AB",
+    "monthlyRentPence": 109800,
+    "region": "SCOTLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2028-12-27"
+  },
+  {
+    "id": "p_1033",
+    "address": "179 Peachtree Lane",
+    "postcode": "EH48 0YZ",
+    "monthlyRentPence": 147200,
+    "region": "WALES",
+    "capacity": 5,
+    "tenancyEndDate": "2026-01-29"
+  },
+  {
+    "id": "p_1034",
+    "address": "36 Chestnut Drive",
+    "postcode": "IV83 2AB",
+    "monthlyRentPence": 192100,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2026-12-20"
+  },
+  {
+    "id": "p_1035",
+    "address": "81 Riverbank Road",
+    "postcode": "EH10 4AA",
+    "monthlyRentPence": 220700,
+    "region": "ENGLAND",
+    "capacity": 7,
+    "tenancyEndDate": "2024-06-10"
+  },
+  {
+    "id": "p_1036",
+    "address": "6 Magnolia Court",
+    "postcode": "BT56 3UV",
+    "monthlyRentPence": 268900,
+    "region": "N.IRELAND",
+    "capacity": 4,
+    "tenancyEndDate": "2026-03-29"
+  },
+  {
+    "id": "p_1037",
+    "address": "26 Ivy Cottage",
+    "postcode": "IV91 9CD",
+    "monthlyRentPence": 102900,
+    "region": "N.IRELAND",
+    "capacity": 4,
+    "tenancyEndDate": "2027-11-16"
+  },
+  {
+    "id": "p_1038",
+    "address": "51 Hampton Road",
+    "postcode": "IV88 8WX",
+    "monthlyRentPence": 291700,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2027-06-10"
+  },
+  {
+    "id": "p_1039",
+    "address": "57 Vicarage Road",
+    "postcode": "KY39 3QR",
+    "monthlyRentPence": 135100,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2028-05-19"
+  },
+  {
+    "id": "p_1040",
+    "address": "181 Elm Drive",
+    "postcode": "ML36 6YZ",
+    "monthlyRentPence": 51100,
+    "region": "N.IRELAND",
+    "capacity": 3,
+    "tenancyEndDate": "2029-05-08"
+  },
+  {
+    "id": "p_1041",
+    "address": "150 Mulberry Street",
+    "postcode": "KY29 1IJ",
+    "monthlyRentPence": 239500,
+    "region": "WALES",
+    "capacity": 5,
+    "tenancyEndDate": "2027-08-14"
+  },
+  {
+    "id": "p_1042",
+    "address": "175 Pine Crescent",
+    "postcode": "EH16 6NZ",
+    "monthlyRentPence": 119800,
+    "region": "ENGLAND",
+    "capacity": 1,
+    "tenancyEndDate": "2025-12-23"
+  },
+  {
+    "id": "p_1043",
+    "address": "139 Dove Street",
+    "postcode": "BT63 0WX",
+    "monthlyRentPence": 230700,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2029-05-24"
+  },
+  {
+    "id": "p_1044",
+    "address": "70 Daisy Street",
+    "postcode": "AB50 2EF",
+    "monthlyRentPence": 125000,
+    "region": "WALES",
+    "capacity": 6,
+    "tenancyEndDate": "2026-07-29"
+  },
+  {
+    "id": "p_1045",
+    "address": "52 Holly Way",
+    "postcode": "G3 7SL",
+    "monthlyRentPence": 73100,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2027-07-28"
+  },
+  {
+    "id": "p_1046",
+    "address": "57 Hawthorn Drive",
+    "postcode": "LS1 1AA",
+    "monthlyRentPence": 221100,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2029-05-07"
+  },
+  {
+    "id": "p_1047",
+    "address": "178 Bluebell Lane",
+    "postcode": "EH61 7OP",
+    "monthlyRentPence": 298700,
+    "region": "SCOTLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2025-12-25"
+  },
+  {
+    "id": "p_1048",
+    "address": "108 Hawthorn Avenue",
+    "postcode": "L18 8AA",
+    "monthlyRentPence": 128600,
+    "region": "ENGLAND",
+    "capacity": 6,
+    "tenancyEndDate": "2027-12-04"
+  },
+  {
+    "id": "p_1049",
+    "address": "21 Beech Lane",
+    "postcode": "KY28 6OP",
+    "monthlyRentPence": 164600,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2026-08-11"
+  },
+  {
+    "id": "p_1050",
+    "address": "46 Alderley Edge",
+    "postcode": "G85 7ST",
+    "monthlyRentPence": 62300,
+    "region": "ENGLAND",
+    "capacity": 1,
+    "tenancyEndDate": "2028-08-04"
+  },
+  {
+    "id": "p_1051",
+    "address": "66 Heather Drive",
+    "postcode": "EH61 7GH",
+    "monthlyRentPence": 168300,
+    "region": "SCOTLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2027-01-16"
+  },
+  {
+    "id": "p_1052",
+    "address": "198 Fern Street",
+    "postcode": "FK51 6CD",
+    "monthlyRentPence": 52000,
+    "region": "SCOTLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2028-06-17"
+  },
+  {
+    "id": "p_1053",
+    "address": "96 Ivy Street",
+    "postcode": "BT35 8IJ",
+    "monthlyRentPence": 114300,
+    "region": "WALES",
+    "capacity": 3,
+    "tenancyEndDate": "2024-10-20"
+  },
+  {
+    "id": "p_1054",
+    "address": "122 Rosewood Close",
+    "postcode": "AB53 1AB",
+    "monthlyRentPence": 101300,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2029-05-20"
+  },
+  {
+    "id": "p_1055",
+    "address": "198 Marlborough Road",
+    "postcode": "ML42 7WX",
+    "monthlyRentPence": 227300,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2029-01-24"
+  },
+  {
+    "id": "p_1056",
+    "address": "198 Aspen Way",
+    "postcode": "ML27 7WX",
+    "monthlyRentPence": 61100,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2026-10-01"
+  },
+  {
+    "id": "p_1057",
+    "address": "101 Juniper Close",
+    "postcode": "AB31 3YZ",
+    "monthlyRentPence": 293700,
+    "region": "SCOTLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2025-11-11"
+  },
+  {
+    "id": "p_1058",
+    "address": "23 Silver Birch Avenue",
+    "postcode": "CB22 3XZ",
+    "monthlyRentPence": 80600,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2029-08-22"
+  },
+  {
+    "id": "p_1059",
+    "address": "42 Chestnut Avenue",
+    "postcode": "EH59 1OP",
+    "monthlyRentPence": 270800,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2025-10-03"
+  },
+  {
+    "id": "p_1060",
+    "address": "90 Cedar Lane",
+    "postcode": "BT79 0MN",
+    "monthlyRentPence": 242100,
+    "region": "ENGLAND",
+    "capacity": 7,
+    "tenancyEndDate": "2027-01-04"
+  },
+  {
+    "id": "p_1061",
+    "address": "128 Larch Drive",
+    "postcode": "EH53 4IJ",
+    "monthlyRentPence": 125800,
+    "region": "N.IRELAND",
+    "capacity": 6,
+    "tenancyEndDate": "2026-05-15"
+  },
+  {
+    "id": "p_1062",
+    "address": "52 Redwood Close",
+    "postcode": "EH59 1AB",
+    "monthlyRentPence": 175700,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2025-02-10"
+  },
+  {
+    "id": "p_1063",
+    "address": "16 Bluebell Road",
+    "postcode": "IV74 9YZ",
+    "monthlyRentPence": 253400,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2025-10-14"
+  },
+  {
+    "id": "p_1064",
+    "address": "33 Beech Road",
+    "postcode": "ML24 9WX",
+    "monthlyRentPence": 192200,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2026-01-30"
+  },
+  {
+    "id": "p_1065",
+    "address": "89 Harvest Avenue",
+    "postcode": "IV87 3CD",
+    "monthlyRentPence": 156500,
+    "region": "SCOTLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2026-07-13"
+  },
+  {
+    "id": "p_1066",
+    "address": "153 Foxglove Street",
+    "postcode": "BT61 8WX",
+    "monthlyRentPence": 126900,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2028-10-21"
+  },
+  {
+    "id": "p_1067",
+    "address": "80 Queensway",
+    "postcode": "FK55 4UV",
+    "monthlyRentPence": 137800,
+    "region": "WALES",
+    "capacity": 3,
+    "tenancyEndDate": "2027-04-30"
+  },
+  {
+    "id": "p_1068",
+    "address": "170 Maple Avenue",
+    "postcode": "BT63 0WX",
+    "monthlyRentPence": 83800,
+    "region": "SCOTLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2028-07-17"
+  },
+  {
+    "id": "p_1069",
+    "address": "120 Richmond Road",
+    "postcode": "BT47 0AA",
+    "monthlyRentPence": 150000,
+    "region": "SCOTLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2022-10-01"
+  },
+  {
+    "id": "p_1070",
+    "address": "36 Mulberry Drive",
+    "postcode": "B31 2TW",
+    "monthlyRentPence": 92800,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2026-05-23"
+  },
+  {
+    "id": "p_1071",
+    "address": "100 Cypress Street",
+    "postcode": "KY24 8OP",
+    "monthlyRentPence": 120700,
+    "region": "WALES",
+    "capacity": 3,
+    "tenancyEndDate": "2027-12-19"
+  },
+  {
+    "id": "p_1072",
+    "address": "93 Birch Lane",
+    "postcode": "EH73 3MN",
+    "monthlyRentPence": 223800,
+    "region": "SCOTLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2024-11-11"
+  },
+  {
+    "id": "p_1073",
+    "address": "107 Poplar Avenue",
+    "postcode": "ML39 4YZ",
+    "monthlyRentPence": 135600,
+    "region": "ENGLAND",
+    "capacity": 1,
+    "tenancyEndDate": "2025-05-07"
+  },
+  {
+    "id": "p_1074",
+    "address": "180 Sycamore Street",
+    "postcode": "G76 8QR",
+    "monthlyRentPence": 59400,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2025-06-25"
+  },
+  {
+    "id": "p_1075",
+    "address": "19 Dogwood Crescent",
+    "postcode": "KY34 9MN",
+    "monthlyRentPence": 59600,
+    "region": "WALES",
+    "capacity": 3,
+    "tenancyEndDate": "2028-07-31"
+  },
+  {
+    "id": "p_1076",
+    "address": "159 Holly Crescent",
+    "postcode": "G12 8QQ",
+    "monthlyRentPence": 87700,
+    "region": "WALES",
+    "capacity": 5,
+    "tenancyEndDate": "2025-03-05"
+  },
+  {
+    "id": "p_1077",
+    "address": "97 Alder Lane",
+    "postcode": "EH76 1MN",
+    "monthlyRentPence": 98700,
+    "region": "WALES",
+    "capacity": 3,
+    "tenancyEndDate": "2026-02-28"
+  },
+  {
+    "id": "p_1078",
+    "address": "140 Linden Grove",
+    "postcode": "EH36 3YZ",
+    "monthlyRentPence": 105100,
+    "region": "SCOTLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2029-06-17"
+  },
+  {
+    "id": "p_1079",
+    "address": "71 Brooklands Avenue",
+    "postcode": "DD1 1AA",
+    "monthlyRentPence": 204000,
+    "region": "WALES",
+    "capacity": 7,
+    "tenancyEndDate": "2029-01-13"
+  },
+  {
+    "id": "p_1080",
+    "address": "63 High Street",
+    "postcode": "46 2ST",
+    "monthlyRentPence": 129300,
+    "region": "N.IRELAND",
+    "capacity": 4,
+    "tenancyEndDate": "2027-10-22"
+  },
+  {
+    "id": "p_1081",
+    "address": "195 Ivy Lane",
+    "postcode": "IV44 2QR",
+    "monthlyRentPence": 257400,
+    "region": "SCOTLAND",
+    "capacity": 6,
+    "tenancyEndDate": "2023-04-12"
+  },
+  {
+    "id": "p_1082",
+    "address": "112 Oakdene Avenue",
+    "postcode": "G87 5ST",
+    "monthlyRentPence": 171200,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2026-12-01"
+  },
+  {
+    "id": "p_1083",
+    "address": "12 Elderberry Avenue",
+    "postcode": "EH43 8CD",
+    "monthlyRentPence": 233300,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2028-07-29"
+  },
+  {
+    "id": "p_1084",
+    "address": "68 Laurel Road",
+    "postcode": "AB57 0IJ",
+    "monthlyRentPence": 144200,
+    "region": "WALES",
+    "capacity": 3,
+    "tenancyEndDate": "2026-02-03"
+  },
+  {
+    "id": "p_1085",
+    "address": "47 Garden Road",
+    "postcode": "EH56 8MN",
+    "monthlyRentPence": 105000,
+    "region": "WALES",
+    "capacity": 4,
+    "tenancyEndDate": "2026-05-16"
+  },
+  {
+    "id": "p_1086",
+    "address": "176 Cedar Grove",
+    "postcode": "EH52 0MN",
+    "monthlyRentPence": 89600,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2028-09-30"
+  },
+  {
+    "id": "p_1087",
+    "address": "42 Willow Avenue",
+    "postcode": "EH51 3KL",
+    "monthlyRentPence": 162600,
+    "region": "WALES",
+    "capacity": 2,
+    "tenancyEndDate": "2029-06-02"
+  },
+  {
+    "id": "p_1088",
+    "address": "125 Jasmine Close",
+    "postcode": "EH46 3KL",
+    "monthlyRentPence": 174600,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2025-05-21"
+  },
+  {
+    "id": "p_1089",
+    "address": "182 Kingsway",
+    "postcode": "AB58 5WX",
+    "monthlyRentPence": 277300,
+    "region": "ENGLAND",
+    "capacity": 6,
+    "tenancyEndDate": "2024-10-30"
+  },
+  {
+    "id": "p_1090",
+    "address": "164 Orchard Avenue",
+    "postcode": "AB44 6CD",
+    "monthlyRentPence": 110300,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2025-11-25"
+  },
+  {
+    "id": "p_1091",
+    "address": "89 Oak Lane",
+    "postcode": "ML50 5AB",
+    "monthlyRentPence": 178300,
+    "region": "ENGLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2028-02-13"
+  },
+  {
+    "id": "p_1092",
+    "address": "168 Elm Street",
+    "postcode": "BT55 5UV",
+    "monthlyRentPence": 171700,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2025-10-22"
+  },
+  {
+    "id": "p_1093",
+    "address": "23 Willow Road",
+    "postcode": "PO1 1AA",
+    "monthlyRentPence": 208700,
+    "region": "SCOTLAND",
+    "capacity": 3,
+    "tenancyEndDate": "2029-08-03"
+  },
+  {
+    "id": "p_1094",
+    "address": "140 Magnolia Lane",
+    "postcode": "BT60 2WX",
+    "monthlyRentPence": 237600,
+    "region": "ENGLAND",
+    "capacity": 4,
+    "tenancyEndDate": "2023-10-02"
+  },
+  {
+    "id": "p_1095",
+    "address": "157 Elderberry Court",
+    "postcode": "EH72 7MN",
+    "monthlyRentPence": 255600,
+    "region": "SCOTLAND",
+    "capacity": 7,
+    "tenancyEndDate": "2025-12-24"
+  },
+  {
+    "id": "p_1096",
+    "address": "167 Lilac Lane",
+    "postcode": "EH71 1MN",
+    "monthlyRentPence": 294500,
+    "region": "ENGLAND",
+    "capacity": 6,
+    "tenancyEndDate": "2028-05-26"
+  },
+  {
+    "id": "p_1097",
+    "address": "45 Buttercup Lane",
+    "postcode": "G76 3IJ",
+    "monthlyRentPence": 69100,
+    "region": "ENGLAND",
+    "capacity": 2,
+    "tenancyEndDate": "2027-12-16"
+  },
+  {
+    "id": "p_1098",
+    "address": "44 Sunflower Street",
+    "postcode": "EH58 1KL",
+    "monthlyRentPence": 223400,
+    "region": "N.IRELAND",
+    "capacity": 4,
+    "tenancyEndDate": "2026-01-09"
+  },
+  {
+    "id": "p_1099",
+    "address": "66 Lavender Way",
+    "postcode": "IV88 2AB",
+    "monthlyRentPence": 99100,
+    "region": "ENGLAND",
+    "capacity": 5,
+    "tenancyEndDate": "2028-02-06"
+  },
+  {
+    "id": "p_1100",
+    "address": "186 Aspen Crescent",
+    "postcode": "M60 1W",
+    "monthlyRentPence": 251200,
+    "region": "ENGLAND",
+    "capacity": 7,
+    "tenancyEndDate": "2026-10-14"
+  },
+  {
+    "id": "p_1101",
+    "address": "154 Oakwood Drive",
+    "postcode": "AB54 4UV",
+    "monthlyRentPence": 211800,
+    "region": "ENGLAND",
+    "capacity": 1,
+    "tenancyEndDate": "2027-02-20"
+  }
+]
